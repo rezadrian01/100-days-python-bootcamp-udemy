@@ -1,2 +1,10 @@
+colorgram.py==1.2.0
+numpy==2.1.1
+pandas==2.2.2
+pillow==10.4.0
 prettytable==3.11.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.16.0
+tzdata==2024.1
 wcwidth==0.2.13
